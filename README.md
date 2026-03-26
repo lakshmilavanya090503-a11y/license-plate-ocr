@@ -68,7 +68,7 @@ license-plate-ocr/
 
 1️⃣ Clone the repository
 
-git clone [https://github.com/your-username/license-plate-ocr.git](https://github.com/lakshmilavanya090503-a11y/license-plate-ocr.git)
+git clone (https://github.com/lakshmilavanya090503-a11y/license-plate-ocr.git)
 cd license-plate-ocr
 
 2️⃣ Install dependencies
