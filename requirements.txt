@@ -1,0 +1,6 @@
+torch
+easyocr
+opencv-python
+ultralytics
+pyserial
+hydra-core
