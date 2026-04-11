@@ -131,7 +131,6 @@ This project uses serial communication to interact with external hardware (e.g.,
 
 🔄 System Flow
 
-Flow Charts
 ![Flow 1](assets/flow1.jpeg)
 ![Flow 2](assets/flow2.jpeg)
 ![Flow 3](assets/flow3.jpeg)
