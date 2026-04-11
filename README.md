@@ -129,6 +129,25 @@ This project uses serial communication to interact with external hardware (e.g.,
 
 ---
 
+🔄 System Flow
+
+Flow Charts
+![Flow 1](assets/flow1.png)
+![Flow 2](assets/flow2.png)
+![Flow 3](assets/flow3.png)
+
+---
+
+📷 Results
+
+Detection Outputs
+![Result 1](assets/result1.png)
+![Result 2](assets/result2.png)
+![Result 3](assets/result3.png)
+![Result 4](assets/result4.png)
+
+---
+
 👩‍💻 Author
 
 Lakshmi Lavanya
