@@ -97,8 +97,6 @@ This project uses serial communication to interact with external hardware (e.g.,
 - Extracted license plate text displayed on screen
 - Serial signal sent for authorized access
 
-(Add screenshots or demo video here)
-
 ---
 
 🚀 Future Enhancements
